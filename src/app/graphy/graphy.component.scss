@@ -1,0 +1,17 @@
+$color-dark: #000;
+$color-primary: #fff;
+
+
+// FONT VARIABLE 
+$font-display: 'Josefin Sans', sans-serif;
+
+
+.long__copy {
+  font-size: 2rem;
+  margin-top: 2rem;
+  color: $color-dark;
+  text-align: center;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  font-family: $font-display;
+}

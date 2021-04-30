@@ -1,0 +1,22 @@
+// Color
+$color-primary-grey: #5b5e61;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
+body {
+  overflow: hidden;
+  font-size: 18px;
+  line-height: 1.72;
+  font-family: AvertaPE;
+  color: $color-primary-grey;
+  height: auto!important;
+}
